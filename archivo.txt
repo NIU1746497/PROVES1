@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio en Main
+=======
+Canvi 2 a Opcio-Menu
+>>>>>>> Opcio-Menu
